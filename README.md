@@ -46,12 +46,11 @@ Holding an M.Sc. in Power Electronics Engineering, I am passionate about develop
 - OrCAD-PSpice
 - Altium Designer
 
-<!### Embedded Systems
+<!--### Embedded Systems
 - STM32
 - TI C2000
-- ESP32
->
->
+- ESP32-->
+
 ### Hardware Design
 - PCB Design
 - Power Converter Design
