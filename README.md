@@ -8,14 +8,17 @@ I design and develop power electronic systems with a focus on efficient energy c
 
 ## 🔬 Research Interests
 
-- DC-DC Converters
-- Resonant Converters (LLC)
-- EV Charging Systems
-- Digital Control
-- Wide-Bandgap Devices (GaN & SiC)
-- Battery Management Systems
-- Power Converter Optimization
-
+- Switch Mode Power Suppliers
+- Resonant Converters
+- EV Drive
+- EV Charger
+- Grid-Connected Inverters
+- Multilevel Inverters
+- Wide-Band-Gap Transistors
+- Hardware-Software Co-design
+- Switching Modulation
+- Automotive EMI/EMC Consideration (CISPR-25)
+- Filter Design
 ---
 
 ## 🛠 Technical Skills
