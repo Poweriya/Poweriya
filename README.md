@@ -22,13 +22,14 @@ Holding an M.Sc. in Power Electronics Engineering, I am passionate about develop
 - Resonant Converters
 - EV Drive
 - EV Charger
+- Automotive EMI/EMC Consideration
+- EMI Filter Design
 - Grid-Connected Inverters
 - Multilevel Inverters
 - Wide-Band-Gap Transistors
 - Hardware-Software Co-design
 - Switching Modulation
-- Automotive EMI/EMC Consideration (CISPR-25)
-- Filter Design
+- Wireless Power Transfer
 ---
 
 ## 🛠 Technical Skills
@@ -38,16 +39,19 @@ Holding an M.Sc. in Power Electronics Engineering, I am passionate about develop
 - Python
 - MATLAB
 
-### Simulation
+### Software
 - MATLAB/Simulink
-- PLECS
 - LTspice
+- PSIM
+- OrCAD-PSpice
+- Altium Designer
 
-### Embedded Systems
+<!### Embedded Systems
 - STM32
 - TI C2000
 - ESP32
-
+>
+>
 ### Hardware Design
 - PCB Design
 - Power Converter Design
