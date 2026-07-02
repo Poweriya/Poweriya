@@ -34,10 +34,16 @@ Holding an M.Sc. in Power Electronics Engineering, I am passionate about develop
 
 ## 🛠 Technical Skills
 
-### Programming
-- C/C++
-- Python
-- MATLAB
+### Design Skill
+- Electronics hardware design
+- Power converter design
+- Controller Design
+- Analog circuit design
+- EMI filter design
+- PCB Design in compliance with CISPR-25 standard
+- Thermal analysis
+- ESD constraints
+- Cost estimation
 
 ### Software
 - MATLAB/Simulink
@@ -51,10 +57,15 @@ Holding an M.Sc. in Power Electronics Engineering, I am passionate about develop
 - TI C2000
 - ESP32-->
 
-### Hardware Design
-- PCB Design
-- Power Converter Design
-- Control Systems
+### Project Management
+- Agile project management
+- Automotive-SPICE framework
+- Having experienc with project managment tools: Jira, MS Project
+
+### Programming
+- C/C++
+- Python
+- MATLAB
 
 ---
 
