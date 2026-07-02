@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi there! 👋 I'm Pooriya Zandi
 
-<!--
-**Poweriya/Poweriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ **Power Electronics Engineer**
 
-Here are some ideas to get you started:
+I design and develop power electronic systems with a focus on efficient energy conversion, embedded control, and electric vehicle charging technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 Research Interests
+
+- DC-DC Converters
+- Resonant Converters (LLC)
+- EV Charging Systems
+- Digital Control
+- Wide-Bandgap Devices (GaN & SiC)
+- Battery Management Systems
+- Power Converter Optimization
+
+---
+
+## 🛠 Technical Skills
+
+### Programming
+- C/C++
+- Python
+- MATLAB
+
+### Simulation
+- MATLAB/Simulink
+- PLECS
+- LTspice
+
+### Embedded Systems
+- STM32
+- TI C2000
+- ESP32
+
+### Hardware Design
+- PCB Design
+- Power Converter Design
+- Control Systems
+
+---
+
+## 🚀 Current Project
+
+Development of a mobile fast charger designed for installation on vehicle dashboards.
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Digital Control
+- AI Applications in Power Electronics
+- High-Power Density Converter Design
+
+---
+
+## 📫 Contact
+
+LinkedIn: Coming Soon
+
+Email: your-email@example.com
+
+---
+⭐ Thanks for visiting my profile!
