@@ -2,7 +2,7 @@
 
 ⚡ **Power Electronics Engineer**
 
-Power Electronics Engineer with over three years of hands-on experience in industrial R&D, specializing in switching-mode power supplies (SMPS), DC-DC converters, highvoltage grid-connected inverters, and PCB design. 
+Power Electronics Engineer with over three years of hands-on experience in *industrial R&D*, specializing in switching-mode power supplies (SMPS), DC-DC converters, highvoltage grid-connected inverters, and PCB design. 
 Experienced in automotive electronics, including hardware design and project leadership for USB fast chargers, exterior lighting systems, and electrochromic mirrors. Familiar with automotive standards and PCB design following ESD, Load-dump, and Environmental requirements, and additionally EMI/EMC, based on the CISPR 25 standard.
 Experienced in the design and development of grid-connected inverter, including Space Vector Modulation (SVM) implementation, multi-level inverter topologies such as Neutral Point Clamped (NPC) and Active Neutral Point Clamped (ANPC) converters, and gate driver design for SiC MOSFET-based power stages. 
 Skilled in simulation and analysis using LTspice, OrCAD PSpice, PSIM, and MATLAB/Simulink. familiar with embedded systems development with STM32 and familiar with Python programming for engineering applications.
