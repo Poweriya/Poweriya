@@ -73,29 +73,27 @@ Holding an M.Sc. in Power Electronics Engineering, I am passionate about develop
 
 Development of a mobile fast charger designed for installation on vehicle dashboards.
 Development of an electrochromic mirror for center and side mirrors of vehicle.
-Development of various exterior lighting systems incuding; headlamp, tail, dynamic indicator, and daylight
- physics, 
-Research on 
+Development of various exterior lighting systems incuding; headlamp, tail, dynamic indicator, and daylight 
 
 ---
 
 ## 📚 Currently Learning
 
 - Advanced controller design
-  Review of Bode plots
-  Analysis of converter transfer functions
-  Graphical construction of converter transfer functions
-  Controller Design
-  An example of Application of Controller Design in DC-DC converter
-  Current Programmed Control
-  dq current control in grid-tide inverter
+  - Review of Bode plots
+  - Analysis of converter transfer functions
+  - Graphical construction of converter transfer functions
+  - Controller Design
+  - An example of Application of Controller Design in DC-DC converter
+  - Current Programmed Control
+  - dq current control in grid-tide inverter
   
 - Research on electrostatic discharge (ESD) including;
-  physics
-  failure mechanisms
-  standards
-  protection components
-  PCB-Level ESD design
+  - physics
+  - failure mechanisms
+  - standards
+  - protection components
+  - PCB-Level ESD design
 
 ---
 
