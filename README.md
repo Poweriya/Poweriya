@@ -99,7 +99,8 @@ Development of various exterior lighting systems incuding; headlamp, tail, dynam
 
 ## 📫 Contact
 
-LinkedIn: linkedin.com/in/pooriyaznd96
+LinkedIn: [linkedin.com/in/pooriyaznd96](https://www.linkedin.com/in/pooriyaznd96/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BL7oRhP3LSE6XqhW7fM9FEg%3D%3D)
+
 Email: pooriya96@gmail.com
 
 ---
