@@ -84,6 +84,7 @@ Development of various exterior lighting systems incuding; headlamp, tail, dynam
   - Analysis of converter transfer functions
   - Graphical construction of converter transfer functions
   - Controller Design
+  - current program control
   - An example of Application of Controller Design in DC-DC converter
   - dq current control in grid-tide inverter
   
