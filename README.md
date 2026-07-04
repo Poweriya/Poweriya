@@ -1,6 +1,6 @@
 <img width="490" height="80" alt="image" src="https://github.com/user-attachments/assets/3d0d649b-de97-449d-9cca-b9916e060b37" /># Hi there! 👋 I'm Pooriya Zandi
 
-⚡ **Power Electronics Engineer**
+⚡ **Power Electronics Engineer** 
 
 Power Electronics Engineer with over three years of hands-on experience in industrial R&D, specializing in switching-mode power supplies (SMPS), DC-DC converters, highvoltage grid-connected inverters, and PCB design.
 
