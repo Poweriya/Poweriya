@@ -85,7 +85,6 @@ Development of various exterior lighting systems incuding; headlamp, tail, dynam
   - Graphical construction of converter transfer functions
   - Controller Design
   - An example of Application of Controller Design in DC-DC converter
-  - Current Programmed Control
   - dq current control in grid-tide inverter
   
 - Research on electrostatic discharge (ESD) including;
