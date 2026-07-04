@@ -1,4 +1,4 @@
-<img width="490" height="80" alt="image" src="https://github.com/user-attachments/assets/3d0d649b-de97-449d-9cca-b9916e060b37" /># Hi there! 👋 I'm Pooriya Zandi
+# Hi there! 👋 I'm Pooriya Zandi
 
 ⚡ **Power Electronics Engineer** 
 
