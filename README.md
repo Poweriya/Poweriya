@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Pooriya Zandi
+<img width="490" height="80" alt="image" src="https://github.com/user-attachments/assets/3d0d649b-de97-449d-9cca-b9916e060b37" /># Hi there! 👋 I'm Pooriya Zandi
 
 ⚡ **Power Electronics Engineer**
 
@@ -72,14 +72,30 @@ Holding an M.Sc. in Power Electronics Engineering, I am passionate about develop
 ## 🚀 Current Project
 
 Development of a mobile fast charger designed for installation on vehicle dashboards.
+Development of an electrochromic mirror for center and side mirrors of vehicle.
+Development of various exterior lighting systems incuding; headlamp, tail, dynamic indicator, and daylight
+ physics, 
+Research on 
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced Digital Control
-- AI Applications in Power Electronics
-- High-Power Density Converter Design
+- Advanced controller design
+  Review of Bode plots
+  Analysis of converter transfer functions
+  Graphical construction of converter transfer functions
+  Controller Design
+  An example of Application of Controller Design in DC-DC converter
+  Current Programmed Control
+  dq current control in grid-tide inverter
+  
+- Research on electrostatic discharge (ESD) including;
+  physics
+  failure mechanisms
+  standards
+  protection components
+  PCB-Level ESD design
 
 ---
 
